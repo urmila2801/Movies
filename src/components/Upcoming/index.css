@@ -1,0 +1,10 @@
+.image-container {
+  display: flex;
+  width: 1250px;
+  flex-wrap: wrap;
+  list-style-type: none;
+  background-color: #232323;
+  background-size: cover;
+  width: auto;
+  margin-top: -7px;
+}

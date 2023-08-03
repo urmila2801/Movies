@@ -1,0 +1,12 @@
+.image {
+  height: 150px;
+  width: 150px;
+}
+.link {
+  text-decoration: none;
+}
+.lists-container {
+  margin: 35px;
+  color: #fff;
+  text-align: center;
+}
